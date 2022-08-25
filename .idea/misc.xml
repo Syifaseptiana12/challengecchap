@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/drawable/panah.xml" value="0.1565" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/drawable/shapes1.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/layout/layout_1.xml" value="0.18034447821681865" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/layout/layout_2_syifa.xml" value="0.23958333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
