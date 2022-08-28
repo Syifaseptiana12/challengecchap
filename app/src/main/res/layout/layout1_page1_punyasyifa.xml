@@ -24,9 +24,9 @@
             android:id="@+id/tulisanggle"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="Google"
             android:textAlignment="center"
             android:textSize="30dp"
+            android:text="Google"
             android:textStyle="bold" />
     </LinearLayout>
 

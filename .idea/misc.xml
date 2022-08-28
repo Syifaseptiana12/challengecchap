@@ -5,9 +5,14 @@
       <map>
         <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/drawable/panah.xml" value="0.1565" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/drawable/shapes1.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/font/googlefont.xml" value="0.3958333333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/layout/kalkulator_syifa.xml" value="0.22" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/layout/layout1_page1.xml" value="0.365625" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/layout/layout1_page1_punyasyifa.xml" value="0.17676767676767677" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/layout/layout_1.xml" value="0.18034447821681865" />
         <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/layout/layout_2_syifa.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/Top4syfa/app/src/main/res/layout/tip_time.xml" value="0.37354988399071926" />
       </map>
     </option>
   </component>
